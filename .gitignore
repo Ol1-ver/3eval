@@ -1,0 +1,24 @@
+# Archivos compilados Java
+*.class
+out/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Builds
+target/
+build/
+
+# Temporales
+*.tmp
+*.bak
+*~
